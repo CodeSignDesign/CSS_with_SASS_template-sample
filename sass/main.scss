@@ -1,0 +1,33 @@
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+@import "base/base";
+@import "base/animations";
+@import "base/typography";
+@import "base/utilities";
+
+@import "components/button";
+
+@import "layout/grid";
+@import "layout/header";
+
+@import "pages/home";
+
+/* HEADER BACKGROUND CLIP-PATHS */
+/* https://bennettfeely.com/clippy/  SAMPLES: */
+/* clip-path: polygon(0% 20%, 60% 20%, 60% 0%, 100% 50%, 60% 100%, 60% 80%, 0% 80%); */
+/* clip-path: polygon(0% 20%, 60% 29%, 60% 0%, 100% 50%, 60% 100%, 59% 73%, 0% 80%); */
+
+/* 
+  From drivevintage.gr -> STUFF ! ! !
+  color: #555d66;
+   background:#f8f9f9;
+   color:#555d66; 
+   
+   */
+
+/* input,
+  textarea {
+    font-family: "Lora";
+  } */

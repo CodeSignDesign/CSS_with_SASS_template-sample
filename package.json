@@ -1,0 +1,14 @@
+{
+  "name": "01_CSS_using_SASS_template-sample",
+  "version": "1.0.0",
+  "description": "01_CSS_using_SASS_template-sample",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "CodeSignDesign",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
